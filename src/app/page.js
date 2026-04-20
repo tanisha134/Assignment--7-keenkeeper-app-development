@@ -1,11 +1,10 @@
-
+import Banner from "../components/Banner";
 
 export default function Home() {
-  return(
-    <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">
-        Welcome to Home Page
-      </h1>
+  return (
+    <div className = "bg-[#F8FAFC] min-h-screen">
+      <Banner />
     </div>
-  )
-}
+
+  );
+};
