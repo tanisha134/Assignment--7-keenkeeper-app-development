@@ -30,7 +30,7 @@ export default function Footer() {
 
                 </div>
             </div>
-                <hr className="w-[90%] mx-auto border-t border-white/30 mt-8" />
+                <hr className="w-[90%] mx-auto border-t border-white/30" />
 
             <div className = "max-w-7xl mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center text-[#FAFAFA] text-[16px] gap-3">
 
