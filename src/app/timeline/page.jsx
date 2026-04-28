@@ -48,7 +48,7 @@ export default function TimelinePage(){
   };
   return(
 
-    <div className="bg-[#F8FAFC] p-6">
+    <div className="bg-[#F8FAFC]  p-6">
       <h1 className="text-5xl font-bold mb-4">
         Timeline
       </h1>

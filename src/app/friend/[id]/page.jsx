@@ -36,7 +36,7 @@ export default function FriendDetails() {
                     The friend you are looking for is not found
                 </h1>
                 <Link href="/">
-                <button className="btn-btn-primary mt-5 font-semibold">Go Home</button>
+                <button className="btn btn-primary mt-5 font-semibold">Go Home</button>
                 </Link>
             </div>
         );
