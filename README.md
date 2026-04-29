@@ -11,22 +11,35 @@ The main goal of this project is to help users stay more aware of their communic
 __Technologies I Used__
 
 • *_Next.js_*
+
 • *_React_*
+
 • *_Tailwind CSS_*
+
 • *_Daisy UI_*
+
 • *_React Icons_*
+
 • *_Recharts_*
+
 • *_React Toastify_*
+
 
 __3 Key Features Of My Project__
 
-• *_Easy Interactions Tracking _*
+• *_Easy Interactions Tracking_*
+
+
 *Log calls, Texts, and Video Chats interactions with your contacts in just one click.*
 
 • *_Timeline History View_*
+
+
 *View a chronological timeline of all your interactions with exact dates.*
 
 • *_Visual Analytics Dashboard_*
+
+
 *Analyze your communication habits with a pie chart showing interaction types.*
 
 
