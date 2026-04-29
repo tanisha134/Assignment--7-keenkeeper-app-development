@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react";
+import { ResponsiveContainer } from "recharts";
 import { PieChart, Cell, Tooltip, Legend, Pie, } from "recharts";
 export default function StatsPage(){
   const[data, setData] = useState([]);
@@ -34,7 +35,7 @@ export default function StatsPage(){
         Friendship Analytics
         </h1>
 
-        <div className="bg-white p-12 rounded-xl shadow max-w-5xl mx-auto">
+        <div className="bg-white px-6 py-8 sm:py-12 sm:px-10 rounded-xl shadow max-w-6xl mx-auto">
 
           <p className="text-[#244D3F] text-[20px] font-medium mb-4 text-left">
             By Interaction Type
@@ -49,8 +50,9 @@ export default function StatsPage(){
               </p> 
             ) : (
 
-              <div className="flex justify-center items-center">
-                <PieChart width={350} height={350}>
+              <div className="flex justify-center items-center w-full h-[300px] sm:h-[350px]">
+                <ResponsiveContainer width= "100%" height="100%">
+                <PieChart>
                   <Pie 
                   data = {data} 
                   cx = "50%" 
@@ -68,6 +70,7 @@ export default function StatsPage(){
                   <Tooltip/>
                   <Legend iconType="circle"/>
                 </PieChart>
+                </ResponsiveContainer>
               </div>
             )}
         </div>
