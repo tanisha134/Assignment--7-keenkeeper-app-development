@@ -27,21 +27,21 @@ __Technologies I Used__
 
 __3 Key Features Of My Project__
 
-• *_Easy Interactions Tracking_*
+• ***Easy Interactions Tracking***
 
 
 *Log calls, Texts, and Video Chats interactions with your contacts in just one click.*
 
-• *_Timeline History View_*
+• ***Timeline History View***
 
 
 *View a chronological timeline of all your interactions with exact dates.*
 
-• *_Visual Analytics Dashboard_*
+• ***Visual Analytics Dashboard***
 
 
 *Analyze your communication habits with a pie chart showing interaction types.*
 
 
 
-*_Finally, I would like to sincerely thank Programming Hero for their guidance and support, which helped me reach the level where I could build this project_*
+***Finally, I would like to sincerely thank Programming Hero for their guidance and support, which helped me reach the level where I could build this project***
